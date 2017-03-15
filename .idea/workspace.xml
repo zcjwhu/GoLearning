@@ -19,30 +19,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="for.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/for.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="condition.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/condition.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-              <folding>
-                <element signature="e#14#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="switch.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/switch.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,8 +82,8 @@
       <file leaf-file-name="function.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/function.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="47" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="175">
+              <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
               <folding>
                 <element signature="e#14#31#0" expanded="true" />
               </folding>
@@ -115,11 +91,47 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="defer.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="defer.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/defer.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1272">
               <caret line="53" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="struct.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/struct.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="967">
+              <caret line="44" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="99" selection-end-column="1" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="method.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/method.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="46" column="27" lean-forward="false" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="interface.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/interface.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="39" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
@@ -158,6 +170,9 @@
         <option value="$PROJECT_DIR$/src/map.go" />
         <option value="$PROJECT_DIR$/src/function.go" />
         <option value="$PROJECT_DIR$/src/defer.go" />
+        <option value="$PROJECT_DIR$/src/struct.go" />
+        <option value="$PROJECT_DIR$/src/method.go" />
+        <option value="$PROJECT_DIR$/src/interface.go" />
       </list>
     </option>
   </component>
@@ -231,25 +246,7 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Go Single File.go run defer.go">
-    <configuration default="false" name="go run array.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
-      <module name="GoLearning" />
-      <working_directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/array.go" />
-      <method />
-    </configuration>
-    <configuration default="false" name="go run slice.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
-      <module name="GoLearning" />
-      <working_directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/slice.go" />
-      <method />
-    </configuration>
-    <configuration default="false" name="go run map.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
-      <module name="GoLearning" />
-      <working_directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/map.go" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Go Single File.go run interface.go">
     <configuration default="false" name="go run function.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="GoLearning" />
       <working_directory value="$PROJECT_DIR$" />
@@ -260,6 +257,24 @@
       <module name="GoLearning" />
       <working_directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/src/defer.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run struct.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="GoLearning" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/struct.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run method.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="GoLearning" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/method.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run interface.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="GoLearning" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/interface.go" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -670,19 +685,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Go Single File.go run hello.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run array.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Single File.go run slice.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Single File.go run map.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Single File.go run function.go" />
-      <item index="5" class="java.lang.String" itemvalue="Go Single File.go run defer.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run function.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Single File.go run defer.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Single File.go run struct.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Single File.go run method.go" />
+      <item index="5" class="java.lang.String" itemvalue="Go Single File.go run interface.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run defer.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run function.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Single File.go run map.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run slice.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Single File.go run array.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run interface.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run method.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Single File.go run struct.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run defer.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Single File.go run function.go" />
       </list>
     </recent_temporary>
   </component>
@@ -699,12 +714,12 @@
       <workItem from="1488704116282" duration="413000" />
       <workItem from="1488713877309" duration="1709000" />
       <workItem from="1489538703037" duration="36000" />
-      <workItem from="1489538837055" duration="19105000" />
+      <workItem from="1489538837055" duration="26988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21263000" />
+    <option name="totallyTimeSpent" value="29146000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1003" extended-state="7" />
@@ -881,20 +896,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/defer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1272">
+          <caret line="53" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/struct.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="967">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="99" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/function.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="47" column="3" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="175">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
           <folding>
             <element signature="e#14#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/defer.go">
+    <entry file="file://$PROJECT_DIR$/src/method.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1272">
-          <caret line="53" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="168">
+          <caret line="46" column="27" lean-forward="false" selection-start-line="46" selection-start-column="27" selection-end-line="46" selection-end-column="27" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/interface.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="39" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
