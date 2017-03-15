@@ -55,6 +55,7 @@ func main()  {
 }
 
 func Disconnect(usb interface{})  {
+	//这里使用的是一个断言
 	switch v:=usb.(type) {
 	case PhoneConnetor:
 		fmt.Println("disconnect",v.name)
