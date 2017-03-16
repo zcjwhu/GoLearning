@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="369b8b5b-68d2-4ce1-9a86-f9acc0a7fd41" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__GoLearning_.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -696,7 +693,7 @@
       <workItem from="1489538837055" duration="37179000" />
       <workItem from="1489645403507" duration="5026000" />
       <workItem from="1489660179877" duration="249000" />
-      <workItem from="1489661349282" duration="647000" />
+      <workItem from="1489661349282" duration="678000" />
     </task>
     <task id="LOCAL-00001" summary="add three version http">
       <created>1489649203068</created>
@@ -712,11 +709,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489660210875</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add README.md">
+      <created>1489662019638</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1489662019638</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45259000" />
+    <option name="totallyTimeSpent" value="45290000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1003" extended-state="6" />
@@ -764,7 +768,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add three version http" />
-    <option name="LAST_COMMIT_MESSAGE" value="add three version http" />
+    <MESSAGE value="add README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="add README.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
