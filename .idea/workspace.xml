@@ -19,30 +19,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="slice.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/slice.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1303">
-              <caret line="57" column="11" lean-forward="true" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
-              <folding>
-                <element signature="e#14#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="map.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/map.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="function.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/function.go">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,18 +26,6 @@
               <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
               <folding>
                 <element signature="e#14#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="defer.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/defer.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1272">
-              <caret line="53" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
-              <folding>
-                <element signature="e#14#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -115,13 +79,49 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="reflection1.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="reflection1.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/reflection1.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+            <state relative-caret-position="240">
+              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
               <folding>
                 <element signature="e#14#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="concurrency.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/concurrency.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2208">
+              <caret line="92" column="24" lean-forward="false" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+              <folding>
+                <element signature="e#14#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="condition.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/condition.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="concurrency1.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/concurrency1.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-233">
+              <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -164,6 +164,9 @@
         <option value="$PROJECT_DIR$/src/reflect1.go" />
         <option value="$PROJECT_DIR$/src/reflection1.go" />
         <option value="$PROJECT_DIR$/src/reflection.go" />
+        <option value="$PROJECT_DIR$/src/concurrent.go" />
+        <option value="$PROJECT_DIR$/src/concurrency.go" />
+        <option value="$PROJECT_DIR$/src/concurrency1.go" />
       </list>
     </option>
   </component>
@@ -237,25 +240,7 @@
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Go Single File.go run reflection.go">
-    <configuration default="false" name="go run struct.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
-      <module name="GoLearning" />
-      <working_directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/struct.go" />
-      <method />
-    </configuration>
-    <configuration default="false" name="go run method.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
-      <module name="GoLearning" />
-      <working_directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/method.go" />
-      <method />
-    </configuration>
-    <configuration default="false" name="go run interface.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
-      <module name="GoLearning" />
-      <working_directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/interface.go" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Go Single File.go run concurrency1.go">
     <configuration default="false" name="go run reflection.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="GoLearning" />
       <working_directory value="$PROJECT_DIR$" />
@@ -266,6 +251,24 @@
       <module name="GoLearning" />
       <working_directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/src/reflection1.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run concurrent.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="GoLearning" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/concurrent.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run concurrency.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="GoLearning" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/concurrency.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run concurrency1.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="GoLearning" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/concurrency1.go" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -676,19 +679,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Go Single File.go run hello.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run struct.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Single File.go run method.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Single File.go run interface.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Single File.go run reflection.go" />
-      <item index="5" class="java.lang.String" itemvalue="Go Single File.go run reflection1.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run reflection.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Single File.go run reflection1.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Single File.go run concurrent.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Single File.go run concurrency.go" />
+      <item index="5" class="java.lang.String" itemvalue="Go Single File.go run concurrency1.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run reflection.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run reflection1.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Single File.go run interface.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run method.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Single File.go run struct.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run concurrency1.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run concurrency.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Single File.go run concurrent.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run reflection.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Single File.go run reflection1.go" />
       </list>
     </recent_temporary>
   </component>
@@ -705,15 +708,15 @@
       <workItem from="1488704116282" duration="413000" />
       <workItem from="1488713877309" duration="1709000" />
       <workItem from="1489538703037" duration="36000" />
-      <workItem from="1489538837055" duration="29946000" />
+      <workItem from="1489538837055" duration="34354000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32104000" />
+    <option name="totallyTimeSpent" value="36512000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1920" height="1003" extended-state="7" />
+    <frame x="0" y="24" width="1920" height="1003" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -797,16 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/condition.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
@@ -957,10 +950,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/reflection1.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="240">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
           <folding>
             <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2208">
+          <caret line="92" column="24" lean-forward="false" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
+          <folding>
+            <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/condition.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/go/src/fmt/print.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="267" column="1" lean-forward="true" selection-start-line="267" selection-start-column="1" selection-end-line="267" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/concurrency1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-233">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
