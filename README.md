@@ -1,0 +1,15 @@
+Go语言基础知识
+==================
+1.常量、变量、运算符<br/>
+2.控制语句:if,for,switch<br/>
+3.数组array<br/>
+4.切片slice<br/>
+5.容器map<br/>
+6.结构struct<br/>
+7.方法method<br/>
+8.接口interface<br/>
+9.函数function<br/>
+10.defer<br/>
+11.反射<br/>
+12.并发<br/>
+13.web服务器httpServer<br/>
