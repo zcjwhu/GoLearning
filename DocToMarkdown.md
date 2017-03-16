@@ -30,13 +30,12 @@
 
 
 ### 链接
-  [点击这里你可以链接到www.google.com](http://www.google.com)<br />
-  [点击这里我你可以链接到我的博客](http://www.dushibaiyu.com)<br />
+  [点击这里我你可以链接到我的博客](http://blog.csdn.net/whu_zcj)<br />
 
 ### 自动链接
 只需要把网址或电子邮件用< >包含起来就行，例如: <br />
-<http://www.dushibaiyu.com> <br/>
-<dushibaiyu@yahoo.com>
+<http://www.baidu.com> <br/>
+<zcjwhu@163.com>
 
 ### 只是显示图片
 ![github](http://github.com/unicorn.png "github")
