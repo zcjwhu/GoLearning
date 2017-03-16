@@ -90,12 +90,13 @@ __更加强调__
 
 ### 代码高亮
 用三个（`） 加上语言名字，然后换行输入代码，再代码结束时也用 三个（`）来结束，例如：<br />
-```C++
-#include <iostream>
+```Go
+package main
 
-int main ()
-{
-  std::cout << "Hello Word!" << std::endl;
+import "fmt"
+
+func main(){
+   fmt.Println("hello world")
 }
 
 ```
