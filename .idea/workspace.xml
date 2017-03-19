@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="369b8b5b-68d2-4ce1-9a86-f9acc0a7fd41" name="Default" comment="add README.md">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/implementHttpCookieWithGo.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__GoLearning_.xml" afterPath="$PROJECT_DIR$/.idea/libraries/GOPATH__GoLearning_.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/implementformjiexi.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -74,13 +73,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="implementHttpCookieWithGo.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="implementHttpCookieWithGo.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/implementHttpCookieWithGo.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
               <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding>
                 <element signature="e#14#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="implementformjiexi.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/implementformjiexi.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+              <folding>
+                <element signature="e#14#60#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -181,6 +192,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/DocToMarkdown.md" />
         <option value="$PROJECT_DIR$/src/implementHttpCookieWithGo.go" />
+        <option value="$PROJECT_DIR$/src/implementformjiexi.go" />
       </list>
     </option>
   </component>
@@ -267,13 +279,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Single File.go run implementHttpCookieWithGo.go">
-    <configuration default="false" name="go run concurrency1.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
-      <module name="GoLearning" />
-      <working_directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/src/concurrency1.go" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Go Single File.go run implementformjiexi.go">
     <configuration default="false" name="go run httpServer.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="GoLearning" />
       <working_directory value="$PROJECT_DIR$" />
@@ -296,6 +302,12 @@
       <module name="GoLearning" />
       <working_directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/src/implementHttpCookieWithGo.go" />
+      <method />
+    </configuration>
+    <configuration default="false" name="go run implementformjiexi.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="GoLearning" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/src/implementformjiexi.go" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -713,19 +725,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Go Single File.go run hello.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run concurrency1.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Single File.go run httpServer.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Single File.go run httpServer02.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Single File.go run httpServer03.go" />
-      <item index="5" class="java.lang.String" itemvalue="Go Single File.go run implementHttpCookieWithGo.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run httpServer.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Single File.go run httpServer02.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Single File.go run httpServer03.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Single File.go run implementHttpCookieWithGo.go" />
+      <item index="5" class="java.lang.String" itemvalue="Go Single File.go run implementformjiexi.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run implementHttpCookieWithGo.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run httpServer02.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Single File.go run httpServer03.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run httpServer.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Single File.go run concurrency1.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run implementformjiexi.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run implementHttpCookieWithGo.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Single File.go run httpServer02.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run httpServer03.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Single File.go run httpServer.go" />
       </list>
     </recent_temporary>
   </component>
@@ -746,7 +758,7 @@
       <workItem from="1489645403507" duration="5026000" />
       <workItem from="1489660179877" duration="249000" />
       <workItem from="1489661349282" duration="1784000" />
-      <workItem from="1489902871308" duration="1858000" />
+      <workItem from="1489902871308" duration="2685000" />
     </task>
     <task id="LOCAL-00001" summary="add three version http">
       <created>1489649203068</created>
@@ -780,10 +792,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48254000" />
+    <option name="totallyTimeSpent" value="49081000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1920" height="1003" extended-state="7" />
+    <frame x="0" y="24" width="1920" height="1003" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -794,13 +806,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32949308" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14636752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14636752" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -836,16 +848,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/httpServer03.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/httpServer02.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="696">
@@ -1225,6 +1227,16 @@
           <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding>
             <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/implementformjiexi.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="30" column="20" lean-forward="false" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="e#14#60#0" expanded="true" />
           </folding>
         </state>
       </provider>
